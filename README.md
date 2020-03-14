@@ -1,6 +1,13 @@
-# Music-Box
-# Technologies used:-
-1. Howler.js
-2. Paper.js
-
-Clone this repo in to your local machine and open <kbd>index.html</kbd> and create your own music.
+# Rythms
+<h2>Go to <a href="hhtps://rythms.netlify.com">Rythms</a> and enjoy :P
+  </h2>
+  <h2>
+  This project uses 
+  <ul>
+    <li>PaperJs</li>
+    <li>HowlerJs</li>
+  </ul>
+  
+  <h1>
+  What's new?</h1>
+  <h2>Added support for mmobile devices</h2>
