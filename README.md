@@ -1,13 +1,13 @@
 # Rythms
-<h2>Go to <a href="hhtps://rythms.netlify.com">Rythms</a> and enjoy :P
+<h2>Go to <a href="htps://rythms.netlify.com">Rythms</a> and enjoy :P
   </h2>
-  <h2>
+  <h4>
   This project uses 
   <ul>
     <li>PaperJs</li>
     <li>HowlerJs</li>
   </ul>
-  
-  <h1>
-  What's new?</h1>
-  <h2>Added support for mmobile devices</h2>
+  </h4>
+  <h2>
+  What's new?</h2>
+  <h4>Added support for mobile devices</h4>
