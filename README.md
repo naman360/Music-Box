@@ -1,5 +1,5 @@
 # Rythms
-<h2>Go to <a href="htps://rythms.netlify.com">Rythms</a> and enjoy :P
+<h2>Go to <a href="https://rythms.netlify.com">Rythms</a> and enjoy :P
   </h2>
   <h4>
   This project uses 
