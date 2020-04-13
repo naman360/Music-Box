@@ -6,6 +6,7 @@
 }
 
 body,html{
+    position: relative;
     height: 100%;
     margin: 0;
     background-color: black;
@@ -20,7 +21,14 @@ h1{
     color: white;
     letter-spacing: 1px;
     text-align: center;
-    margin-top: 15px;
+    margin-top: 8px;
     letter-spacing: 5px;
     font-family: 'avenger'
+}
+
+/* Responsive text */
+@media(max-width:768px){
+    h1{
+        font-size: 5vw;
+    }
 }
