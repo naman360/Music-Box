@@ -22,7 +22,7 @@ function onKeyDown(event){          //Keydown event listener
 
 // var circles=[];
 
-document.getElementById('myCanvas').addEventListener('click',()=>{ 
+document.getElementById('myCanvas').addEventListener('click',function(){ 
     var nums=Math.floor(Math.random()*27);
     var playAudio=keyData[nums].pressKey;           //Used [] for Objects of objects
 
