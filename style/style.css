@@ -1,9 +1,15 @@
-@import url('https://fonts.googleapis.com/css?family=Bellota&display=swap');
+@font-face{
+    src: url('../src/fonts/avenger.ttf');
+    font-family: 'avenger';
+    font-weight: normal;
+    font-style: normal;
+}
 
 body,html{
     height: 100%;
     margin: 0;
     background-color: black;
+    /* font-family: 'avenger'; */
 }
 #myCanvas{
     background: black;
@@ -14,6 +20,7 @@ h1{
     color: white;
     letter-spacing: 1px;
     text-align: center;
-    margin-top: 0px;
-    font-family: 'Bellota', cursive;
+    margin-top: 15px;
+    letter-spacing: 5px;
+    font-family: 'avenger'
 }
