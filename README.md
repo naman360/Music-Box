@@ -5,7 +5,7 @@ This web application is made using front-end technologies like - Vanilla JavaScr
 
 # Usage
 1). Clone the repo using <code>git clone https://github.com/naman360/Rythms.git</code>.<br>
-2). <code>cd hackcorona</code><br>
+2). <code>cd Rythms</code><br>
 3). For VS Code, run <code>code .</code> to open the current folder in VS code.<br>
 4). Install live server and open <code>index.html</code> using it.<br>
 
